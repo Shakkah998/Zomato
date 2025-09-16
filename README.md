@@ -1,4 +1,4 @@
-# 📊 [Zomato Power BI Dashboard]
+# 📊 Zomato Power BI Dashboard
 
 ## 📌 Project Overview
 This project delivers a comprehensive Power BI dashboard analyzing restaurant performance, customer reviews, pricing patterns, and cuisine variety on the Zomato platform, providing stakeholders with actionable insights for data-driven decisions.
